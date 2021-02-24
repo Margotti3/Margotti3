@@ -1,35 +1,16 @@
+# Mateus Margotti
 ## Olá visitante 🖐
-### Esse é o Git de um Desenvolvedor WEB/Mobile júnior
 
-Meu nome é Mateus Margotti, tenho 19 anos e sou Técnico em Informático pelo CEFET-MG. Estou graduando em Ciência da Computação no segundo período e buscando mais conhecimento nessa área maravilhosa pela vasta internet. Gosto bastante de desenvolver e sempre que posso procuro aprimorar meus conhecimentos. Sou um pessoa bem legal, gosto de trabalhar em grupo e ajudar sempre que possível.
+Esse é o GitHub de um Desenvolvedor WEB/Mobile júnior que adora desafios envolvendo lógica <br>
+Tenha minha preferência pela Back-End, mas consigo me virar quando preciso ser FullStack 💻
 
-### Conhecimento
+☺️ Gosto de PHP<br>
+🥰 Criando paixão pela NodeJS<br>
+👍 Adorando o React<br>
+🚀 Estudando essa stack do JS influenciado pela Rocketseat<br>
+🖥️ Em busca de um primeiro emprego <br>
 
-  Já procurei saber de várias liguagens, mas é claro me aprufundei só em alguma. Meu conhecimetos nessas vão de baixo a intermediário.
-São as linguagens:
-
-- HTML -> intermediário
-- CSS -> intermediário
-- JS -> intermediário
-- PHP -> intermediário
-- MySQL -> intermediário
-- TS -> baixo
-- C -> intermediário
-- C++ -> intermediário
-- Python -> baixo
-
-  Não podemos esquecer das bicliotecas, framesworks e outros auxiliares:
-
-- Materialize -> intermediário
-- Bootstrap -> intermediário
-- JQuery -> baixo
-- Ajax -> baixo
-- Laravel -> baixo
-- ReactJS -> baixo
-- ReactNative -> baixo
-- NodeJS -> baixo
-- Electron -> baixo
-
-### Atualmente
-
-  No momento estou focado em estudar a stack do JS com o ReactJS, ReactNative e NodeJS, inspirado principalmente pela Rocket Seat.
+Contato:<br>
+Email: mmargottia@gmail.com<br>
+Linkedin: https://www.linkedin.com/in/mateus-margotti-0777431a4/<br>
+Rocketseat: https://app.rocketseat.com.br/me/margotti<br>

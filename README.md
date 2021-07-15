@@ -4,11 +4,10 @@
 Esse é o GitHub de um Desenvolvedor WEB/Mobile júnior que adora desafios envolvendo lógica <br>
 Tenha minha preferência pela Back-End, mas consigo me virar quando preciso ser FullStack 💻
 
-☺️ Gosto de PHP<br>
 🥰 Criando paixão pela NodeJS<br>
-👍 Adorando o React<br>
+👍 Adorando o React JS/native<br>
 🚀 Estudando essa stack do JS influenciado pela Rocketseat<br>
-🖥️ Em busca de um primeiro emprego <br>
+🖥️ Estagiando como desenvolvedor de sistemas web <br>
 
 Contato:<br>
 Email: mmargottia@gmail.com<br>
